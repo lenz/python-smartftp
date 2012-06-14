@@ -10,7 +10,7 @@ Usage
 
 Get the package:
 
-    git clone https://github.com/lenz/smartftp.git
+    git clone https://github.com/lenz/python-smartftp.git
     python setup.py install
 
 
