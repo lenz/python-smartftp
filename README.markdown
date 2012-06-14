@@ -1,5 +1,5 @@
-A fork of CPythons ftplib which is fault tolerant in one sense
-==============================================================
+A fault tolerant fork of CPythons ftplib
+========================================
 
 If you ever experienced strange timeouts on passive ftp transfers with CPythons ftplib this one is for you. The cause for timeouts in passive mode are often ill configured FTP servers behind NATs. Smartftp distrusts the IP address advertised by the PASV response of such server and falls back to the known host address if it gets no connection for the passive data transfer.
 
