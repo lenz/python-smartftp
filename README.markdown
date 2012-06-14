@@ -11,6 +11,7 @@ Usage
 Get the package:
 
     git clone https://github.com/lenz/python-smartftp.git
+    cd python-smartftp
     python setup.py install
 
 
